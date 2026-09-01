@@ -17,7 +17,7 @@
 
 ## Purpose
 
-The purpose of this project was for me to learn more about and hands on experience in cybersecurity architecture concepts. Most home labs stop at installing a SIEM and Active Directory, but this project exists beyond that suface level. By its completion, I hope to answer the question: 
+The purpose of this project was for me to learn more about and gain hands on experience in cybersecurity architecture concepts. Most home labs stop at installing a SIEM and Active Directory, but this project exists beyond that suface level. By its completion, I hope to answer the question: 
 
     "Given a real business with a limited budget, and a resource-contrained host, how do you securely design, build, and defend an environment while explaining why you made each decision along the way?"
 
