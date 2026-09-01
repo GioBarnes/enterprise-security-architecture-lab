@@ -31,7 +31,7 @@ The purpose of this project was for me to learn more about and gain hands on exp
 
 ## Device Topology
 
-This Project will use three physical devices with one job. A 4th device will be integrated 
+This Project will use three physical devices with one job. These are comprised of old laptops I had lying around that could be repurposed along with my main device. A 4th device will be integrated at a later date.
 
 | Device | Role | Runs |
 |---|---|---|
