@@ -58,8 +58,6 @@ Each phase below will link to its own doc, written up once the phase reaches a w
 ## Key Findings & Screenshots
 Screenshots that correlate to important steps in the process can be found in the [`screenshots/`](screenshots/) folder. They will me named to match the phase/day they came from. They will also be referenced inline from the relevant phase documentation.
 
-Ex: "day6-password-spray-alert.png"
-
 Logs will be kept as I do day-to-day work on this project, outlining my thought process, wins, mistakes, and remediations found in [`logs/`](logs/) . These will not follow any standard format besides dates and titles, and will instead be a raw view of this project's creation process.
 
 ## Repo Structure 
